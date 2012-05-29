@@ -60,12 +60,12 @@ $(function(){
 		);
 	counters.push( initCounter( 'iphones', iphones_sec ) );
 	counters.push( initCounter( 'ipads', ipads_sec ) );
-	counters.push( initCounter( 'kindle', kindle_sec ) );
-	counters.push( initCounter( 'bb', bb_sec ) );
+	// counters.push( initCounter( 'kindle', kindle_sec ) );
+	// counters.push( initCounter( 'bb', bb_sec ) );
 
 	counters.push( initCounter( 'tweets', tweets_sec ) );
 	counters.push( initCounter( 'instagram', instagram_sec ) );
-	counters.push( initCounter( 'instagram_new', instagramnew_sec ) );
+	// counters.push( initCounter( 'instagram_new', instagramnew_sec ) );
 
 
 
